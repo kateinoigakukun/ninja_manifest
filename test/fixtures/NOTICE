@@ -1,0 +1,3 @@
+This directory contains some fixtures for testing purposes from 3rd party sources, such as:
+
+- `build.ninja`: The Ninja build file used to build Ninja itself, generated from https://github.com/ninja-build/ninja

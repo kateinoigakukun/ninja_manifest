@@ -1,0 +1,6 @@
+Gemfile.lock
+.vscode
+/coverage
+/doc
+/pkg
+/checksums
